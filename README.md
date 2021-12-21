@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-<img src="logo.png" width="140px" border="2px"> <br> 
+<img src="logo.png" width="120px" border="2px"> <br> 
 <img src="https://hrcdn.net/community-frontend/assets/badges/python-f70befd824.svg" width="20px" > <b> Python Developer. </b>
 
 <b> I'm [Md. Nur Habib](https://github.com/thenurhabib),
