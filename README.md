@@ -8,7 +8,7 @@ I'm a Programmer And  Linux System Administrator.
 and I love Music, Marvel & Open-Source. <b>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/mdnurhabib12)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:mdnurhabib12@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thenurhabib@gmail.com)](mailto:thenurhabib@gmail.com)
 ![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/thenurhabib)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whitelogo=twitter&logoColor=white&link=https://hackerRank.com/Yaronzz)](https://hackerRankcom/thenurhabib)
 
@@ -23,7 +23,7 @@ and I love Music, Marvel & Open-Source. <b>
 ## About
 
 - Python Certificate By HackerRank: https://www.hackerrank.com/certificates/4a127b20c39a
-- How to reach me: mdnurhabib12@gmail.com
+- How to reach me: thenurhabib@gmail.com
 
 
 - Languages and Tools: 
