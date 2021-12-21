@@ -10,7 +10,7 @@ and I love Music, Marvel & Open-Source. <b>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/mdnurhabib12)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:mdnurhabib12@gmail.com)
 ![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/thenurhabib)
-[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whitelogo=twitter&logoColor=white&link=https://hackerRank.com/Yaronzz)](https://hackerRankcom/mdnurhabib12)
+[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whitelogo=twitter&logoColor=white&link=https://hackerRank.com/Yaronzz)](https://hackerRankcom/thenurhabib)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thenurhabib)
 
