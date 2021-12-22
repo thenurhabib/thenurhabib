@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
 <img src="logo.png" width="120px" border="2px"> <br> 
- <b> &nbsp; [Md. Nur Habib](https://github.com/thenurhabib) <br>
+ <b> &nbsp; &nbsp; [Md. Nur Habib](https://github.com/thenurhabib) <br>
 <!-- <img src="https://hrcdn.net/community-frontend/assets/badges/python-f70befd824.svg" width="20px" > <b> Python Developer. </b> -->
 
 
