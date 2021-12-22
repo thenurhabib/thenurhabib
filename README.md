@@ -23,7 +23,7 @@ and I love Music, Marvel & Open-Source. <b>
 ## About
 
 - Python Certificate By HackerRank: https://www.hackerrank.com/certificates/4a127b20c39a
-- How to reach me: thenurhabib@gmail.com
+- Contact Me Via GMail: thenurhabib@gmail.com
 
 
 - Languages and Tools: 
