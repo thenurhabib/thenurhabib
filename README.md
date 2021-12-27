@@ -20,7 +20,6 @@ and I love Music, Marvel & Open-Source. <b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenurhabib)](https://github.com/thenurhabib/github-readme-stats)
 
-
 ## About
 
 - Python Certificate By HackerRank: https://www.hackerrank.com/certificates/4a127b20c39a
