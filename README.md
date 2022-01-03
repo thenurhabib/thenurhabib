@@ -29,10 +29,10 @@ and I love Music, Marvel & Open-Source. <b>
 
  
  ```yaml
-    Facebook   : https://web.facebook.com/thenurhab1b 
-    GitHub     : https://github.com/thenurhabib
-    HackerRank : https://www.hackerrank.com/thenurhabib
-    Mail       : thenurhabib@gmail.com
+ GitHub     : https://github.com/thenurhabib
+ Facebook   : https://web.facebook.com/thenurhab1b 
+ HackerRank : https://www.hackerrank.com/thenurhabib
 ```
+ ### Mail : thenurhabib@gmail.com
  
 <img src="./bgbotom.svg">
