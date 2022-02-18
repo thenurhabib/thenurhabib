@@ -3,7 +3,7 @@
 <!-- <img src="https://hrcdn.net/community-frontend/assets/badges/python-f70befd824.svg" width="20px" > <b> Python Developer. </b> -->
 <hr>
 
- I'm a Programmer And  Linux System Administrator.
+ I'm a Programmer And  Security Researcher.
  and I love Music, Comics & Open-Source. <b>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/mdnurhabib12)
