@@ -20,13 +20,9 @@
  
   <br>
  
-<img src="https://tryhackme-badges.s3.amazonaws.com/thenurhabib.png" alt="TryHackMe">
-
 
  Certificate:
 
- 
- 
   ### My Certificates
  
 ![image](https://user-images.githubusercontent.com/68025241/158613418-52829962-51e4-4188-8ef7-f1564f932b0a.png)
