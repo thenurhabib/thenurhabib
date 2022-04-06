@@ -1,9 +1,9 @@
-<img src="logo.png" width="120px" border="2px"> <br> 
+
  <b> &nbsp; &nbsp; [Md. Nur Habib](https://github.com/thenurhabib) <br>
 <!-- <img src="https://hrcdn.net/community-frontend/assets/badges/python-f70befd824.svg" width="20px" > <b> Python Developer. </b> -->
 <hr>
 
- I'm a Programmer And  Security Researcher.
+ I'm a Programmer And  Hacker.
  and I love Music, Comics & Open-Source. <b>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/mdnurhabib12)
