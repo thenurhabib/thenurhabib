@@ -3,35 +3,47 @@
 <!-- <img src="https://hrcdn.net/community-frontend/assets/badges/python-f70befd824.svg" width="20px" > <b> Python Developer. </b> -->
 <hr>
 
- I'm a Programmer And  Hacker.
- and I love Music, Comics & Open-Source. <b>
+ <h2> Hi, I'm Md. Nur Habib</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=thenurhabib&show_icons=true&theme=radical" width="380">
+<p><em>Programmer and Linux system administrator 🧑‍💻<br>
+<br>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/mdnurhabib12)
+### I am a Programmer and Linux system administrator and also work at Turing as full stack developer. I love to write offensive and defensive CLI software in bash and python language that can help and automate web, software security testing.  📔 🤖
+
+</em></p>
+
+[![Twitter: thenurhab1b](https://img.shields.io/twitter/follow/thenurhabib?style=flat-square)](https://twitter.com/thenurhab1b)
+[![GitHub thenurhabib](https://img.shields.io/github/followers/thenurhabib?label=follow%20github&style=flat-square)](https://github.com/thenurhabib)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thenurhabib@gmail.com)](mailto:thenurhabib@gmail.com)
 ![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/thenurhabib)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thenurhabib)
- 
- [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whitelogo=twitter&logoColor=white&link=https://hackerRank.com/thenurhabib)](https://hackerrank.com/thenurhabib)
- 
-![Md. Nur habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenurhabib&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenurhabib)](https://github.com/thenurhabib/github-readme-stats)
-
-## About
- 
-  <br>
- 
-
- Certificate:
-
-  ### My Certificates
- 
-![image](https://user-images.githubusercontent.com/68025241/158613418-52829962-51e4-4188-8ef7-f1564f932b0a.png)
-
- ![image](https://user-images.githubusercontent.com/68025241/158614665-ebee2bd9-922e-4151-835b-1020ac68ef54.png)
 
 
-- Python Certificate By HackerRank : https://www.hackerrank.com/certificates/4a127b20c39a
-- SQL Certificate By HackerRank    : https://www.hackerrank.com/certificates/5c609e64bd3f
+
+<br>
+
+### More about me...  👾
+
+```python
+def aboutMeFunc():
+    dictData = {
+            "Name": "Md. Nur Habib",
+            "About": "Programmer and sysAdmin.",
+            "Lang" : "{Python, Bash, HTML, CSS, SQL}",
+            "BestAndFavoriteSkill" : "CLI Software building, Malware Development"
+            }
+    print(dictData)
+
+
+if __name__ == "__main__":
+    try:
+        aboutMeFunc()
+    except KeyboardInterrupt:
+        pass
+
+```
+---
+
 
  
  ```yaml
